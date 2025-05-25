@@ -1,0 +1,12 @@
+'''
+
+                            Online Python Compiler.
+                Code, Compile, Run and Debug python program online.
+Write your code in this editor and press "Run" button to execute it.
+
+'''
+
+a=3;
+b=2;
+c= a*b;
+print (c);
